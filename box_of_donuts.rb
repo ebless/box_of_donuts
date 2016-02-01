@@ -9,7 +9,6 @@ puts donuts[3] # old fashioned
 dean = donuts[2] 
 james = donuts[5]
 daniel = donuts[7]
-classmates = [dean, james, daniel]
 #Find a method that lets you search the box of donuts to see if yours in there
 puts "Search box for your donut."
 user_input = gets.chomp
